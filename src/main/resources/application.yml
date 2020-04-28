@@ -1,0 +1,4 @@
+smsserver:
+  username_sid: #Your SID From Twilio
+  password_token: # Your Token
+  number_from: # Your number included the +
