@@ -10,8 +10,8 @@ For further reference, please consider the following sections:
 * [Flyway Migration](https://docs.spring.io/spring-boot/docs/2.2.6.RELEASE/reference/htmlsingle/#howto-execute-flyway-database-migrations-on-startup)
 
 For Twilio Api :
-* [Full Documentation] (https://www.twilio.com/docs/sms)
-* [Quick Start] (https://www.twilio.com/docs/sms/quickstart/java)
+* [Full Documentation](https://www.twilio.com/docs/sms)
+* [Quick Start](https://www.twilio.com/docs/sms/quickstart/java)
 
 ### Guides
 The following guides illustrate how to use some features concretely:
